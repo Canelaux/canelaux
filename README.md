@@ -3,7 +3,10 @@
 👋 **Welcome!**  
 I’m a Data Scientist passionate about solving real-world problems through data-driven solutions. I’ve studied classic Machine Learning algorithms, including Linear Regression, Logistic Regression, Support Vector Machines, and Decision Trees, as well as Deep Learning techniques such as Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Transfer Learning, and Autoencoders.  
 
-📧 **Contact me:** [crdcanelo@gmail.com](mailto:crdcanelo@gmail.com)  
+📧 **Contact me:** [crdcanelo@gmail.com](mailto:crdcanelo@gmail.com)
+
+🌐 **Find me online:**  
+- [LinkedIn: Cristhian Pérez Canelo](https://www.linkedin.com/in/cristhian-david-p%C3%A9rez-canelo/) 
  
 
 ---
